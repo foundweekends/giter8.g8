@@ -1,6 +1,6 @@
 A [Giter8][g8] template for making more Giter8 templates!
 
-[![Build Status](https://travis-ci.org/foundweekends/giter8.g8.svg?branch=master)](https://travis-ci.org/foundweekends/giter8.g8)
+[![Build Status](https://travis-ci.com/foundweekends/giter8.g8.svg?branch=master)](https://travis-ci.com/foundweekends/giter8.g8)
 
 Template license
 ----------------
