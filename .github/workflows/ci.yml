@@ -10,7 +10,7 @@ jobs:
       matrix:
         include:
           - java: 8
-          - java: 11
+          - java: 21
     runs-on: ubuntu-latest
     steps:
     - uses: actions/setup-java@v5
