@@ -1,5 +1,4 @@
 lazy val root = (project in file("."))
-  .enablePlugins(ScriptedPlugin)
   .settings(
     name := "giter8.g8",
     Test / Keys.test := {
